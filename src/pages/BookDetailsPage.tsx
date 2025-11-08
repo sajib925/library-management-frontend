@@ -132,7 +132,7 @@ export default function BookDetailsPage() {
                       <DialogClose asChild>
                         <Button variant="outline">Cancel</Button>
                       </DialogClose>
-                      <Button type="submit">Confirm Borrow</Button>
+                      <Button type="submit" className="cursor-pointer">Confirm Borrow</Button>
                     </DialogFooter>
                   </form>
                 </DialogContent>
